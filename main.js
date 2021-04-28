@@ -1,4 +1,4 @@
-anvas = document.getElementById('myCanvas');
+canvas = document.getElementById('myCanvas');
 ctx = canvas.getContext("2d");
 
 rover_width = 100;
